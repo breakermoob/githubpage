@@ -1,0 +1,6 @@
+git init
+git remote add origin url
+
+git add -A
+git commit -m "Mensaje"
+git push -u origin master
